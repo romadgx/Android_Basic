@@ -5,6 +5,7 @@
     android:id="@+id/activity_c"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#2196f3"
     tools:context=".ActivityC">
 
     <Button
